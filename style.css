@@ -21,7 +21,7 @@ main {
   margin: 30px auto;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
   border: none;
-  transform: translateY(50);
+  transform: translateY(50%);
 }
 
 button {
