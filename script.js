@@ -70,6 +70,11 @@ const questoes = [
     opcoes: ["Não bebendo água","Dormindo bem, e protegendo a cabeça","Comendo só doce"],
     certa: 1,
   }
+  {
+    pergunta: '10. Essa e uma pergunta exemplo...',
+    opcoes: ["errada","certa","errada"],
+    certa: 1,
+  }
 ];
 //variável guardando, o número da questão.
 let questao = 0
